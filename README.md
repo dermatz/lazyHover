@@ -1,2 +1,2 @@
 # lazyHover
-Tigger active classes to hover elements
+Tigger active classes to hover elements with a timeout
